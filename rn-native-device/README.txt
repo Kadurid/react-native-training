@@ -1,0 +1,1 @@
+Project made for practicing native devices with expo
